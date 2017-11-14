@@ -12,7 +12,7 @@ class GraphMaking():
 
     def dataSet(self):
         '''
-        Getting the horizonal and vertical datas in a graph from csv data.
+        Getting the horizonal and vertical datas in the graph from csv datas.
         '''
         #データを行列として取得
         data        = np.loadtxt('data.csv', delimiter=',', skiprows=1)
