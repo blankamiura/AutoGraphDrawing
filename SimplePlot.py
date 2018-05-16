@@ -2,7 +2,7 @@ import numpy                as np
 import matplotlib.pyplot    as plt
 import seaborn              as sbn
 
-# 珍しくclassじゃない．
+# 珍しくclassじゃないのです．
 # 最近classだと醜いことに気付き始めた．
 
 def simplePlot() :
